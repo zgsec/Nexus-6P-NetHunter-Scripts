@@ -1,2 +1,2 @@
 # Nexus-6P-NetHunter-Scripts
-A series of scripts written for a Nexus 6P running NetHunter
+A collection of scripts I use for auditing my homenetwork with a Nexus6P | Nethunter install
